@@ -2,7 +2,6 @@
 Source: https://medium.com/@waprin/python-and-dota2-analyzing-team-liquids-io-success-and-failure-7d44cc5979b2
 '''
 import json
-#import time
 import requests
 import datetime as dt
 
